@@ -1,4 +1,4 @@
-#  Used Car Sales Price Prediction in UK
+#  Used Toyota Car Price Prediction for Discount Motors in the UK
 
 This project was developed as part of a data science case study for Discount Motors, a UK-based used car dealership. The goal is to help the sales team **automate the process of pricing used cars**, especially in preparation for the retirement of their most experienced pricing expert.
 
